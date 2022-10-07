@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/3GoGames/TuesdayNights/Scenes/Bootstrap.unity
-  isLoaded: 1
-  isActive: 1
